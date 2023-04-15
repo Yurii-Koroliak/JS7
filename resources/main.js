@@ -45,7 +45,7 @@ for (let i = 0; i < playList.length; i++) {
 
 
 const circles = document.querySelectorAll('.traffic__light_item');
-const switch_btn = document.querySelector('#switch_btn');
+const switch_btn = document.getElementById('switch_btn');
 
 // const circles = document.querySelectorAll('traffic__light_item');
 // const switch_btn = document.getElementById('switch_btn');
